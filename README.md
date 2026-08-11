@@ -21,8 +21,7 @@ Users who engaged with Discover Weekly (3+ songs/week) had an **85.5% retention 
 
 - `generate_data.py` — builds the synthetic dataset
 - `analyze.py` — calculates retention, funnel, and stickiness metrics
-- [Tableau Dashboard](#) — interactive view of the retention trend *(replace this with your actual Tableau Public link)*
+- [Tableau Dashboard](https://public.tableau.com/app/profile/nidhi.nandakumar/vizzes) — interactive view of the retention trend 
 
 ## Tools used
-
 Python, Pandas, NumPy, Tableau Public
